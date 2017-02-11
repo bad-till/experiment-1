@@ -1,0 +1,12 @@
+security:
+  user:
+    name: test
+    password: test
+
+spring:
+  jackson:
+    serialization:
+      indent-output: true
+      
+management:
+  context-path: /mon
